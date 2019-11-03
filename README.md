@@ -1,5 +1,5 @@
 Event calendar application.
-Usability: you can add some task to the calendar, for every specific day you need.
+Usability: you can add/delete some task to the calendar, for every specific day you need.
 
 # Eventcalendar
 
