@@ -1,3 +1,6 @@
+Event calendar application.
+Usability: you can add some task to the calendar, for every specific day you need.
+
 # Eventcalendar
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.3.
